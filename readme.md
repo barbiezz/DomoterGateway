@@ -7,7 +7,7 @@
 <a href="https://packagist.org/packages/laravel/framework"><img src="https://poser.pugx.org/laravel/framework/license.svg" alt="License"></a>
 </p>
 
-## Domoter
+## DomoterGateway
 The software aims to make the configuration totally customizable. It is in fact possible to define your own applications for the control of some types of devices in all simplicity.
 
 Among the main elements of the application we have:
